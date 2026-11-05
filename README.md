@@ -93,5 +93,6 @@ Lower the frame count for a more sensitive alarm, raise it to reduce false alarm
 
 OpenCV, dlib, NumPy, pygame, Python.
 
-Project Type
+## Project Type
+
 BCA Mini Project
