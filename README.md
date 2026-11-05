@@ -93,10 +93,5 @@ Lower the frame count for a more sensitive alarm, raise it to reduce false alarm
 
 OpenCV, dlib, NumPy, pygame, Python.
 
-## Acknowledgements
-
-Originally inspired by [Driver-drowsiness-Detection-using-Haar-Cascade-Algorithm-in-Deep-Learning](https://github.com/SHAMSUNDAR20/Driver-drowsiness-Detection-using-Haar-Cascade-Algorithm-in-Deep-Learning) by SHAMSUNDAR20. The dlib landmark model is from [dlib.net](http://dlib.net).
-
-## Contributing
-
-Issues and pull requests are welcome.
+Project Type
+BCA Mini Project
