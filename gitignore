@@ -1,0 +1,19 @@
+# Large model / data files (download separately, see README)
+*.dat
+*.pkl
+
+# Duplicates
+*_Copy.xml
+*_copy.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
